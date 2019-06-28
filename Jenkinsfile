@@ -11,7 +11,7 @@ pipeline {
                     '''
             }
         }
-    },
+    }
     post {
         always {
             echo "posting section lets see the result"
